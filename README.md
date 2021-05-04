@@ -1,5 +1,5 @@
-### Hi there 👋
-hello
+### Hey i am shraddha👋
+
 <!--
 **ShraddhaSS-creator/shraddhaSS-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
